@@ -1,4 +1,4 @@
-
+Getting Started with BigQuery ML || GSP247 ||
 
 
 Run the following Commands in CloudShell
